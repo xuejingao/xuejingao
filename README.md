@@ -9,7 +9,7 @@
 <!-- 💡 &nbsp; I'm a software developer.\ -->
 🎓 &nbsp; I'm graduated from Hunter College studying Computer Science (2017-2021).
 <!-- 🌱 &nbsp; I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\ -->
-✍️ &nbsp; In my free time, I play spots, goto the gym and pursue writing as my hobbies.
+✍️ &nbsp; In my free time, I play sports, workout and pursue writing as my hobbies.
 <!-- 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\ -->
 <!-- ✉️ &nbsp;You can email me at dhadwal1507@gmail.com. I'll try to respond as soon as possible!\ -->
 <!-- 📄 &nbsp;You can check my [Resume]() for more details about work experience. -->
