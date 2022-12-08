@@ -6,8 +6,8 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-<!-- 💡 &nbsp; I'm a software developer.\ -->
-🎓 &nbsp; I am a recent graduate from Hunter College with a degree in Computer Science (2017-2021).
+💡 &nbsp; Software developer.\
+🎓 &nbsp; Hunter College
 <!-- 🌱 &nbsp; I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\ -->
 <!-- ✍️ &nbsp; In my free time, I play sports, workout and pursue writing as my hobbies. -->
 <!-- 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\ -->
